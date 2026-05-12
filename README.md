@@ -65,4 +65,4 @@ mlflow ui --port 5000
 ---
 
 ## ✒️ Autor
-* **Luis** - [luislopezperez401](https://github.com/luislopezperez401)
+* **Luis López Pérez** - [luislopezperez401](https://github.com/luislopezperez401)
