@@ -1,0 +1,11 @@
+{
+  "mae": 204.15,
+  "rmse": 279.15,
+  "r2": 0.997922,
+  "mape": 0.6489,
+  "best_iteration": 1000,
+  "n_features": 24,
+  "train_rows": 131302,
+  "test_rows": 13896,
+  "trained_at": "2026-05-12T13:29:18.221710"
+}
